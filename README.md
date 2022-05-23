@@ -16,6 +16,12 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 
+#### 협업툴
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Jira Software](https://img.shields.io/badge/Jira%20Software-0052CC.svg?&style=for-the-badge&logo=Jira%20Software&logoColor=white)
+![Mattermost](https://img.shields.io/badge/Mattermost-0058CC.svg?&style=for-the-badge&logo=Mattermost&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
+
 #### Education
 - 2014.03 ~ 2016.02 | 한성과학고등학교 재학
 - 2016.02 ~ 2020.08 | KAIST 바이오및뇌공학과 학사
