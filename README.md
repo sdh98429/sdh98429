@@ -1,4 +1,4 @@
-### Hi there 👋
+### 끊임없이 도전하는 개발자, 신동호입니다. 👋
   [![sdh98429's github stats](https://github-readme-stats.vercel.app/api?username=sdh98429)](https://github.com/anuraghazra/github-readme-stats)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codlen)](https://solved.ac/codlen/)
 
