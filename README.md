@@ -1,9 +1,9 @@
-### 끊임없이 도전하는 개발자, 신동호입니다. 👋
+# 끊임없이 도전하는 개발자, 신동호입니다. 👋
   [![sdh98429's github stats](https://github-readme-stats.vercel.app/api?username=sdh98429)](https://github.com/anuraghazra/github-readme-stats)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codlen)](https://solved.ac/codlen/)
 
 
-#### 기술 스택
+## 기술 스택
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
@@ -16,13 +16,13 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 
-#### 협업툴
+## 협업툴
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Jira Software](https://img.shields.io/badge/Jira%20Software-0052CC.svg?&style=for-the-badge&logo=Jira%20Software&logoColor=white)
 ![Mattermost](https://img.shields.io/badge/Mattermost-0058CC.svg?&style=for-the-badge&logo=Mattermost&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
 
-#### Education
+## Education
 - 2014.03 ~ 2016.02 | 한성과학고등학교 재학
 - 2016.02 ~ 2020.08 | KAIST 바이오및뇌공학과 학사
 - 2020.08 ~ 2021.02 | KAIST 인지발달 연구실 인턴
