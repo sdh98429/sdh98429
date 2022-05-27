@@ -29,6 +29,9 @@
 - 2021.02 ~ 2021.07 | KAIST 바이오 컴퓨터 인터페이스 연구실 인턴
 - 2021.07 ~ 2022.07 | 삼성 청년 소프트웨어 아카데미 (SSAFY) 6기
 
+## Contact
+e-mail : codlen@naver.com
+
 <!--
 **sdh98429/sdh98429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
